@@ -23,11 +23,13 @@ Each file is named after the LeetCode problem for easy navigation.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hc9033/leet-code.java/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/hc9033/leet-code.java/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/hc9033/leet-code.java/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hc9033/leet-code.java/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hc9033/leet-code.java/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
