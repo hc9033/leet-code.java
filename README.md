@@ -29,6 +29,7 @@ Each file is named after the LeetCode problem for easy navigation.
 | [0035-search-insert-position](https://github.com/hc9033/leet-code.java/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/hc9033/leet-code.java/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hc9033/leet-code.java/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/hc9033/leet-code.java/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Each file is named after the LeetCode problem for easy navigation.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hc9033/leet-code.java/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/hc9033/leet-code.java/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
