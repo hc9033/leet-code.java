@@ -28,6 +28,7 @@ Each file is named after the LeetCode problem for easy navigation.
 | [0027-remove-element](https://github.com/hc9033/leet-code.java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hc9033/leet-code.java/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hc9033/leet-code.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/hc9033/leet-code.java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/hc9033/leet-code.java/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hc9033/leet-code.java/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/hc9033/leet-code.java/tree/master/0704-binary-search) |
@@ -35,6 +36,7 @@ Each file is named after the LeetCode problem for easy navigation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hc9033/leet-code.java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/hc9033/leet-code.java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/hc9033/leet-code.java/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -55,4 +57,16 @@ Each file is named after the LeetCode problem for easy navigation.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hc9033/leet-code.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hc9033/leet-code.java/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hc9033/leet-code.java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hc9033/leet-code.java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
